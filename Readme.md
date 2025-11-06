@@ -15,8 +15,8 @@ This repository is a learning project for me and my friend to practice Git and c
 4. Open a pull request for review
 
 ## Contributors
-- Me
-- My friend
+- sky kurakin
+- ruslan lomaka
 
 ## Notes
 Use this repo to try commands, workflows, and collaboration exercises.
